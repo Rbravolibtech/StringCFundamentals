@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCFundamentals", "StringCFundamentals.csproj", "{84FB689B-317B-4A6C-9BA3-519E5F94196A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FB689B-317B-4A6C-9BA3-519E5F94196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FB689B-317B-4A6C-9BA3-519E5F94196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FB689B-317B-4A6C-9BA3-519E5F94196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FB689B-317B-4A6C-9BA3-519E5F94196A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A999C1F3-AEB7-46C0-B870-91AE612C3951}
+	EndGlobalSection
+EndGlobal
